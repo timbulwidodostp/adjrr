@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p adjrr Adjusted risk ratios and risk differences Use adjrr With STATA 19

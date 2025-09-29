@@ -1,0 +1,4 @@
+D 'adjrr': Adjusted risk ratios and risk differences Use adjrr With STATA 19
+D
+F adjrr.ado
+F adjrr.sthlp
